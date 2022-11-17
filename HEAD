@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 aad0aa3cdc3d104cb83399babf58178e6649f3a0 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658070521 +0300	commit (initial): Initial Commit
+aad0aa3cdc3d104cb83399babf58178e6649f3a0 806b1ea91d09bdb99671f324612f4b4c3673a586 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658070646 +0300	commit: Project Setup.
+806b1ea91d09bdb99671f324612f4b4c3673a586 e1e6e1f5e7546626b715a17a67c83ac581d5d71d siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658073135 +0300	commit: Initial Project Setup Done, Onboarding View in Progress.
+e1e6e1f5e7546626b715a17a67c83ac581d5d71d d665c342bbd599bb05af3fa2bcc2f90bf197838f siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658656767 +0300	commit: Onboarding View in Progress.
+d665c342bbd599bb05af3fa2bcc2f90bf197838f 03fb10902df83462492f6afdb3a9f9fde61d9626 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658668897 +0300	commit: Onboarding View in Progress.
+03fb10902df83462492f6afdb3a9f9fde61d9626 a12ac0d750a0944ba6171a89ae1ceb4492987779 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658675748 +0300	commit: Onboarding View Done, Sign Up and Login Views in Progress.
+a12ac0d750a0944ba6171a89ae1ceb4492987779 e7520ac249a4a4cfb1a8e8d6f9e97ff453bf59f4 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658677599 +0300	commit: Sign Up and Login Views Done.
+e7520ac249a4a4cfb1a8e8d6f9e97ff453bf59f4 c4a07d3da8664d03504f3659f182d39d6399a285 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658733369 +0300	commit: Dashboard View in Progress.
+c4a07d3da8664d03504f3659f182d39d6399a285 86335a7a0965abb7632b432cfb4c3022ea69fa87 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658766648 +0300	commit: Dashboard, Transactions, Payments, Cards and Settings Views in Progress.
+86335a7a0965abb7632b432cfb4c3022ea69fa87 ba7ff93f42af8266f995c253ac3431089b14bac0 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658818439 +0300	commit: Dashboard View Done, Settings View in Progress.
+ba7ff93f42af8266f995c253ac3431089b14bac0 a1950701ce3568880f305ddde682ac95cb576805 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658850960 +0300	commit: Settings and Payments Views Done, Cards View in Progress.
+a1950701ce3568880f305ddde682ac95cb576805 7ce2eac2a187e1846ad487c3c6f14bf76ab22d42 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658906621 +0300	commit: Cards View Done, Sample Data in Progress
+7ce2eac2a187e1846ad487c3c6f14bf76ab22d42 d01f5474fda0bf853cefa23d440a375eb1ec4fe1 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658933242 +0300	commit: Sample Data in Progress.
+d01f5474fda0bf853cefa23d440a375eb1ec4fe1 e246b978bb4b95b1effcaad75706b0d5fdbfa68e siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1658991567 +0300	commit: Sample Data in Progress.
+e246b978bb4b95b1effcaad75706b0d5fdbfa68e b89f7d2f24be663e10e92cc216f650343c2942a6 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659021628 +0300	commit: Sample Data Done.
+b89f7d2f24be663e10e92cc216f650343c2942a6 35ab3aabed8364d1ea6447b1ad55dd18d9cea0bf siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659076793 +0300	commit: Bug Fixes and Improvements.
+35ab3aabed8364d1ea6447b1ad55dd18d9cea0bf f322ccb07e7799f5b82c5bca58070808242fb3e6 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659109303 +0300	commit: Bug Fixes and Improvements.
+f322ccb07e7799f5b82c5bca58070808242fb3e6 cef3e3fc9389e530701c529b937e595655435c55 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659170764 +0300	commit: Bug Fixes and Improvements.
+cef3e3fc9389e530701c529b937e595655435c55 5445d5dba151aa50853d7af7dc810ad24077f43f siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659257213 +0300	commit: Bug Fixes and Improvements in Progress.
+5445d5dba151aa50853d7af7dc810ad24077f43f fdacd042ae1968f80991daa2f26a474e5a83aec2 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659272484 +0300	commit: Bug Fixes and Improvements.
+fdacd042ae1968f80991daa2f26a474e5a83aec2 497a9097ade501c38c5b31ec16b994f13400a3ec siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1659280962 +0300	commit: Bug Fixes and Improvements.
+497a9097ade501c38c5b31ec16b994f13400a3ec 4789fb841704851c831b4dc16c929b7c6b931514 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1660835752 +0300	commit: Bug Fixes and Improvements.
+4789fb841704851c831b4dc16c929b7c6b931514 7e5130a5f111b6b6432fdfbc494cbdea60a69472 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1660893309 +0300	commit: Bug Fixes and Improvements.
+7e5130a5f111b6b6432fdfbc494cbdea60a69472 5a75a149af9c25e0c5616e492459348b1fa274f2 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1660971515 +0300	commit: Bug Fixes and Improvements.
+5a75a149af9c25e0c5616e492459348b1fa274f2 38ba72449202f581dd4e991ee5ed163602bdef27 siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1661583390 +0300	commit: Bug Fixes and Improvements.
+38ba72449202f581dd4e991ee5ed163602bdef27 7440060a73763cf70e9d70b26e86a36946ac259e siadesigntech <61943902+siadesigntech@users.noreply.github.com> 1661787001 +0300	commit: Bug Fixes and Improvements.
